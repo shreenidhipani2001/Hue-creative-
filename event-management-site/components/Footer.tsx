@@ -7,9 +7,9 @@ export default function Footer() {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <div className="w-10 h-10 bg-gradient-to-br from-pink-500 via-purple-500 to-blue-500 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold">H</span>
+                <span className="text-white font-bold">EM</span>
               </div>
-              <span className="font-bold text-xl">Hue Creatives</span>
+              <span className="font-bold text-xl">EventMasters</span>
             </div>
             <p className="text-purple-300 text-sm leading-relaxed">
               Creating unforgettable experiences through innovative event management, design, and branding solutions.
