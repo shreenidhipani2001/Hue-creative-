@@ -34,10 +34,10 @@ export default function Navbar() {
           {/* Logo */}
           <div className="flex items-center space-x-2">
             <div className="w-12 h-12 bg-gradient-to-br from-pink-500 via-purple-500 to-blue-500 rounded-lg flex items-center justify-center shadow-lg transform hover:rotate-12 transition-transform">
-              <span className="text-white font-bold text-xl">EM</span>
+              <span className="text-white font-bold text-xl">H</span>
             </div>
             <div>
-              <h1 className="text-white font-bold text-xl tracking-wide">EventMasters</h1>
+              <h1 className="text-white font-bold text-xl tracking-wide">Hue Creative</h1>
               <p className="text-purple-300 text-xs">Creating Memorable Experiences</p>
             </div>
           </div>
