@@ -73,7 +73,7 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="border-t border-white/10 pt-8 mt-8 flex flex-col md:flex-row justify-between items-center text-sm text-purple-400">
-          <p>&copy; 2024 EventMasters. All rights reserved.</p>
+          <p>&copy; 2025 Hue Creatives . All rights reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="hover:text-pink-400 transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-pink-400 transition-colors">Terms of Service</a>
