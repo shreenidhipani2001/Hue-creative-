@@ -79,7 +79,7 @@ export default function ClientsScroller() {
       <div className="max-w-7xl mx-auto px-6 mt-20">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
           <div className="text-center">
-            <div className="text-5xl font-bold text-white mb-2">20+</div>
+            <div className="text-5xl font-bold text-white mb-2">50+</div>
             <div className="text-purple-300">Happy Clients</div>
           </div>
           <div className="text-center">
@@ -87,7 +87,7 @@ export default function ClientsScroller() {
             <div className="text-purple-300">Events Completed</div>
           </div>
           <div className="text-center">
-            <div className="text-5xl font-bold text-white mb-2">10+</div>
+            <div className="text-5xl font-bold text-white mb-2">15+</div>
             <div className="text-purple-300">Years Experience</div>
           </div>
           <div className="text-center">

@@ -37,7 +37,7 @@ export default function Navbar() {
               <span className="text-white font-bold text-xl">H</span>
             </div>
             <div>
-              <h1 className="text-white font-bold text-xl tracking-wide">Hue Creative</h1>
+              <h1 className="text-white font-bold text-xl tracking-wide">Hue Creatives</h1>
               <p className="text-purple-300 text-xs">Creating Memorable Experiences</p>
             </div>
           </div>

@@ -157,9 +157,9 @@ export default function ContactForm() {
               <div className="absolute inset-0 flex items-center justify-center">
                 <div className="text-center text-white p-8">
                   <div className="text-8xl mb-4">🏢</div>
-                  <p className="text-xl font-semibold">Replace with Your Company Image</p>
+                  {/* <p className="text-xl font-semibold">Replace with Your Company Image</p> */}
                   <p className="text-sm mt-2 opacity-80">
-                    Path: /public/company-image.jpg
+                    {/* Path: /public/company-image.jpg */}
                   </p>
                 </div>
               </div>
@@ -176,8 +176,8 @@ export default function ContactForm() {
                 </div>
                 <div>
                   <h4 className="text-white font-semibold mb-1">Office Address</h4>
-                  <p className="text-purple-300">123 Event Street, Business District</p>
-                  <p className="text-purple-300">New Delhi, India 110001</p>
+                  <p className="text-purple-300">HIG Colony,Niladri Vihar,Chandrasekharpur,Bhubaneswar</p>
+                  <p className="text-purple-300">Odisha,India   PIN- 751021</p>
                 </div>
               </div>
 
@@ -187,8 +187,8 @@ export default function ContactForm() {
                 </div>
                 <div>
                   <h4 className="text-white font-semibold mb-1">Email Us</h4>
-                  <p className="text-purple-300">info@eventmasters.com</p>
-                  <p className="text-purple-300">support@eventmasters.com</p>
+                  <p className="text-purple-300">hue.c2013@gmail.com</p>
+                 
                 </div>
               </div>
 
@@ -198,8 +198,8 @@ export default function ContactForm() {
                 </div>
                 <div>
                   <h4 className="text-white font-semibold mb-1">Call Us</h4>
-                  <p className="text-purple-300">+91 98765 43210</p>
-                  <p className="text-purple-300">+91 98765 43211</p>
+                  <p className="text-purple-300">+91 93370 64589</p>
+                  <p className="text-purple-300">+91 90909 53800</p>
                 </div>
               </div>
 
@@ -209,8 +209,8 @@ export default function ContactForm() {
                 </div>
                 <div>
                   <h4 className="text-white font-semibold mb-1">Working Hours</h4>
-                  <p className="text-purple-300">Monday - Friday: 9:00 AM - 6:00 PM</p>
-                  <p className="text-purple-300">Saturday: 10:00 AM - 4:00 PM</p>
+                  <p className="text-purple-300">Monday - Friday: 9:00 AM - 7:00 PM</p>
+                  <p className="text-purple-300">Saturday: 10:00 AM - 7:00 PM</p>
                 </div>
               </div>
             </div>
