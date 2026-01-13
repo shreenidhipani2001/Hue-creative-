@@ -34,6 +34,7 @@ export default function ClientsScroller() {
           Partnering with industry leaders to create exceptional experiences
         </p>
       </div>
+      
 
       {/* Infinite scrolling logos */}
       <div className="relative">
