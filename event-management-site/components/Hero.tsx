@@ -107,7 +107,7 @@ export default function Hero() {
                 <div className="w-64 h-64 border-4 border-purple-500 rounded-lg transform -rotate-12 absolute animate-spin-slow-reverse"></div>
                 <div className="w-48 h-48 bg-gradient-to-br from-pink-500/30 to-purple-500/30 backdrop-blur-sm rounded-2xl absolute top-8 left-8 flex items-center justify-center">
                   <div className="text-center text-white">
-                    <div className="text-4xl font-bold mb-2">15+</div>
+                    <div className="text-4xl font-bold mb-2">16+</div>
                     <div className="text-sm">Years Experience</div>
                   </div>
                 </div>
